@@ -1,7 +1,8 @@
 // Lab 4  - deriv.cpp : Defines the entry point for the console application.
 //Visual Studio
+//Linux mint - Kate.cxx
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include <iostream>
 #include <cmath>
 
